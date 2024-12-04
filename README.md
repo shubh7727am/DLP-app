@@ -2,7 +2,7 @@
 # DLP (Dynamic Lift Propeller Control)
 
 **Created By:** Shubham Choudhary  
-**Edited By:** Shubham Choudhary  
+
 
 DLP is an advanced IoT-based application designed to control and monitor the speed and angle of a tilt rotor in real time. Utilizing local WebSocket communication, the app ensures precise and reliable adjustments for efficient operations.
 
@@ -55,4 +55,4 @@ DLP is an advanced IoT-based application designed to control and monitor the spe
 
 ---
 
-**Developed and Edited By:** Shubham Choudhary
+**Developed By:** Shubham Choudhary
