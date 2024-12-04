@@ -12,6 +12,7 @@ App Screenshots
 <p align="center">
   <img src="App_ss/1.png" width="30%" />
   <img src="App_ss/2.png" width="30%" />
+  <img src="App_ss/3.png" width="30%" />
 </p>
 
 ## Features
