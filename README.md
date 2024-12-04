@@ -10,7 +10,7 @@ DLP is an advanced IoT-based application designed to control and monitor the spe
 App Screenshots
 --------
 <p align="center">
-  <img src="App_ss/1.png" width="500%" />
+  <img src="App_ss/1.png" width="50%" />
   <img src="App_ss/2.png" width="50%" />
 </p>
 
