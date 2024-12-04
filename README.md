@@ -1,3 +1,4 @@
+![App Icon](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 # DLP (Dynamic Lift Propeller Control)
 
