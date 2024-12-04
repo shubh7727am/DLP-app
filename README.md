@@ -7,6 +7,13 @@
 
 DLP is an advanced IoT-based application designed to control and monitor the speed and angle of a tilt rotor in real time. Utilizing local WebSocket communication, the app ensures precise and reliable adjustments for efficient operations.
 
+App Screenshots
+--------
+<p align="center">
+  <img src="App_ss/1.png" width="500%" />
+  <img src="App_ss/2.png" width="50%" />
+</p>
+
 ## Features
 
 - **Tilt Rotor Control**:
