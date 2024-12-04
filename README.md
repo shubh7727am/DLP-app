@@ -64,4 +64,3 @@ App Screenshots
 
 ---
 
-**Developed By:** Shubham Choudhary
